@@ -428,8 +428,8 @@
                     "items": [
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Honey.PrimalItemConsumable_Honey",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 4000,
+                            "maxQuantityPerCycle": 1000,
+                            "maxQuantityInTerminal": 1000,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
@@ -1160,7 +1160,7 @@
                     "items": [
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Allo.PrimalItemResource_ApexDrop_Allo",
-                            "maxQuantityPerCycle": 0,
+                            "maxQuantityPerCycle": 10,
                             "maxQuantityInTerminal": 10,
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
@@ -4286,7 +4286,7 @@
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton",
                             "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 5000,
+                            "maxQuantityInTerminal": 1000,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
@@ -4334,8 +4334,8 @@
                     "items": [
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
+                            "maxQuantityPerCycle": 1000,
+                            "maxQuantityInTerminal": 1000,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
@@ -4809,8 +4809,8 @@
                     "items": [
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat.PrimalItemConsumable_RawPrimeMeat",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
+                            "maxQuantityPerCycle": 1000,
+                            "maxQuantityInTerminal": 1000,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
@@ -4834,7 +4834,7 @@
                     "items": [
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_HealSoup.PrimalItemConsumable_HealSoup",
-                            "maxQuantityPerCycle": 0,
+                            "maxQuantityPerCycle": 1000,
                             "maxQuantityInTerminal": 1000,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
