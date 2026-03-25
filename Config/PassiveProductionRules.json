@@ -5112,9 +5112,9 @@
                     "items": [
                         {
                             "bpPath": "/Game/ScorchedEarth/CoreBlueprints/Resources/PrimalItemResource_Sand.PrimalItemResource_Sand",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 5000,
-                            "quantityPerDino": 10,
+                            "maxQuantityPerCycle": 1000,
+                            "maxQuantityInTerminal": 1000,
+                            "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
                             "alternateItems": [],
@@ -5130,9 +5130,9 @@
                     "items": [
                         {
                             "bpPath": "/Game/ScorchedEarth/CoreBlueprints/Consumables/PrimalItemConsumable_CactusSap.PrimalItemConsumable_CactusSap",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 5000,
-                            "quantityPerDino": 10,
+                            "maxQuantityPerCycle": 1000,
+                            "maxQuantityInTerminal": 1000,
+                            "quantityPerDino": 2,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
                             "alternateItems": [],
