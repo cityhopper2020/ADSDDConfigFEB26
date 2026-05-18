@@ -5572,7 +5572,7 @@
                         {
                             "bpPath": "/Game/Extinction/CoreBlueprints/Resources/PrimalItemResource_Dust.PrimalItemResource_Dust",
                             "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 2000,
+                            "maxQuantityInTerminal": 1000,
                             "quantityPerDino": 10,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
@@ -5595,7 +5595,7 @@
                     "itemSelectMode": 0,
                     "items": [
                         {
-                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_.PrimalItemResource_",
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element",
                             "maxQuantityPerCycle": 0,
                             "maxQuantityInTerminal": 4,
                             "quantityPerDino": 1,
